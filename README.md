@@ -8,7 +8,7 @@ This dashboard is part of a machine learning project focused on predicting wheth
 
 - **Programming Language:** Python  
 - **Data Manipulation & Analysis:** Pandas, NumPy  
-- **Machine Learning & Modeling:** Scikit-learn (Logistic Regression, Decision Tree, Random Forest)  
+- **Machine Learning & Modeling:** Scikit-learn ( Random Forest)  
 - **Model Evaluation:** Confusion Matrix, Accuracy, Precision, Recall, F1-Score, Probability Thresholds  
 - **Data Visualization:** Matplotlib, Seaborn  
 - **Dashboarding & Reporting:** Tableau  
